@@ -1,0 +1,27 @@
+# JAVA版本的.gitignore
+# .gitignore文件目前忽略项目
+# InteliJ IDEA .idea目录
+# 日志目录以及日志文件
+# mvn编译文件目录(target目录)
+# java编译后的文件*.class
+# MAC OS .DS_Store文件
+# 数据文件.dat
+# IntelliJ IDEA 工程配置文件.iml
+# Windows平台vim 未正常退出编辑的文件
+# Windos平台vim编辑状态文件.swp
+
+.idea/*
+*/log/*
+*.log
+*.log.*
+*/target/*
+
+*.DS_Store
+*.dat
+*.iml
+*.class
+
+*.un~
+*.swp
+
+
