@@ -14,3 +14,7 @@
 
 # 目前收录的轮子列表
 
+| 功能 | 类 | 功能和对应的方法 |
+|-------------|-----------------|-------------------|
+| 随机数工具类 | RandomUtils    | 1. 生成[a,b)区间的随机数   double rangeRandom(double include, double exclude) </br> 
+2. 一定概率生成一定区间的随机数，比如30%概率生成[0,99)的随机数 double probRandom(double startValue, double value, double endValue,double lessThanRatio)</br> |
