@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-wheels-configs/java-wheels-configs.iml" filepath="$PROJECT_DIR$/java-wheels-configs/java-wheels-configs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-wheels-core/java-wheels-core.iml" filepath="$PROJECT_DIR$/java-wheels-core/java-wheels-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-wheels-examples/java-wheels-examples.iml" filepath="$PROJECT_DIR$/java-wheels-examples/java-wheels-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-wheels-moduls/java-wheels-moduls.iml" filepath="$PROJECT_DIR$/java-wheels-moduls/java-wheels-moduls.iml" />
+    </modules>
+  </component>
+</project>
