@@ -5,7 +5,6 @@ package utils;
  * @date 2019/12/25 17:51 Random Utils
  */
 public class RandomUtils {
-
   /**
    * Return [include,exclude) random value
    *
