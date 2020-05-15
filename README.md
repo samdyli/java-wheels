@@ -21,4 +21,4 @@
 配置
 | 功能 | 类 | 功能和对应的方法 |
 |-------------|-----------------|-------------------|
-| gitignore | ![.igore](java-wheels-configs/src/main/java/git/.gitignore)    |  |
+| gitignore | [.igore](java-wheels-configs/src/main/java/git/.gitignore)    |  |
